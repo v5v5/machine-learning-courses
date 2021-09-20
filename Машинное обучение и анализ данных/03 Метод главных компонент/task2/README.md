@@ -1,0 +1,1 @@
+![Jupyter ноутбук с описанием полезных команд в формате html для просмотра в браузере.](https://courses.openedu.ru/asset-v1:ITMOUniversity+MLDATAN+spring_2020_ITMO_bac+type@asset+block@Task_3_1.html)
