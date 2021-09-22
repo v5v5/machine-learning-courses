@@ -1,0 +1,1 @@
+[Jupyter ноутбук с описанием полезных команд в формате html для просмотра в браузере.](https://courses.openedu.ru/asset-v1:ITMOUniversity+INTROML+fall_2019_ITMO+type@asset+block@Lec_2_LinearRegression.html)
