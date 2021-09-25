@@ -1,0 +1,1 @@
+[Материалы к лекции. Метод  k -ближайших соседей](https://courses.openedu.ru/asset-v1:ITMOUniversity+MLDATAN+self_2021_2022+type@asset+block/k-NN_Example.html)
